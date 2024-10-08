@@ -15,6 +15,10 @@
 - 🎵 Song : Yes, I like it
 - 🌑 Religion : Islam
 
+##
+
+- **Skills**: JavaScript, HTML, CSS, Node.js
+- **Projects**: [My Portfolio](https://example.com), [GitHub Repos](https://github.com/ramdaniprnm)
 <!---
 ramdanipurnama/ramdani is a Human Being, This is My Overview repository 
 --->
