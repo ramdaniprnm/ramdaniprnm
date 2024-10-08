@@ -11,7 +11,9 @@
 - 👀 I’m interested in Becomes a Success Person
 - 🌱 I’m currently learning Javascript
 - 😄 Pronouns: Refrigerator 
-- ⚡ Fun fact: My speech is longer than CODW3 Remake 
+- ⚡ Fun fact: I am not Kanye West nor Tame Impala
+- 🎵 Song : Yes, I like it
+- 🌑 Religion : Islam
 
 <!---
 ramdanipurnama/ramdani is a Human Being, This is My Overview repository 
