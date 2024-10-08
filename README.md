@@ -18,7 +18,8 @@
 ##
 
 - **Skills**: JavaScript, HTML, CSS, Node.js
-- **Projects**: [My Portfolio](https://example.com), [GitHub Repos](https://github.com/ramdaniprnm)
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ramdani-purnama-9312b8312/?trk=opento_sprofile_pfeditor)!
+- [GitHub Repos](https://github.com/ramdaniprnm)
 <!---
 ramdanipurnama/ramdani is a Human Being, This is My Overview repository 
 --->
