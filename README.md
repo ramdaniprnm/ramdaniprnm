@@ -2,11 +2,13 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 
 <h2 align="center">New Programmer From Indonesian Fresh Graduate HS</h2>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+RGB colors eg: #595959 needs to be %23595959 in the URL
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100"/>
 </p>
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+
 - 👋 Hi, I’m Ramdani Purnama
 - 👀 I’m interested in Becomes a Success Person
 - 🌱 I’m currently learning Javascript
