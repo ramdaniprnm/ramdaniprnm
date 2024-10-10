@@ -1,9 +1,6 @@
-  # ramdaniprnm
-<h1 align="center">Welcome to My GitHub Profile!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&duration=4000&pause=1000&color=F39C12&background=160E0120&center=true&width=435&lines=Assalamu'alaikum;Welcome+To+My+GitHub+Profiles!+" alt="Typing SVG" /></a>
 
 <h2 align="center">New Programmer From Indonesian Fresh Graduate HS</h2>
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
-RGB colors eg: #595959 needs to be %23595959 in the URL
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100"/>
