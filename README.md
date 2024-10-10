@@ -5,7 +5,7 @@
 <h2 align="center">New Programmer From Indonesia Fresh Graduate HS</h2>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50"/>
 </p>
 
 <table>
