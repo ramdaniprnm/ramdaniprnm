@@ -6,8 +6,7 @@
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100"/>
 </p>
-(https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 - 👋 Hi, I’m Ramdani Purnama
 - 👀 I’m interested in Becomes a Success Person
 - 🌱 I’m currently learning Javascript
