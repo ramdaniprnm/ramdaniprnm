@@ -1,11 +1,11 @@
   # ramdaniprnm
 <h1 align="center">Welcome to My GitHub Profile!</h1>
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <h2 align="center">New Programmer From Indonesian Fresh Graduate HS</h2>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100"/>
+<h1>(https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)</h1>
 </p>
 
 - 👋 Hi, I’m Ramdani Purnama
