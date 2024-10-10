@@ -5,8 +5,8 @@
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100"/>
-<h1>(https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)</h1>
 </p>
+<h1>(https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)</h1>
 
 - 👋 Hi, I’m Ramdani Purnama
 - 👀 I’m interested in Becomes a Success Person
