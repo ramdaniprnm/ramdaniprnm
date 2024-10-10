@@ -1,5 +1,6 @@
   # ramdaniprnm
 <h1 align="center">Welcome to My GitHub Profile!</h1>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <h2 align="center">New Programmer From Indonesian Fresh Graduate HS</h2>
 
