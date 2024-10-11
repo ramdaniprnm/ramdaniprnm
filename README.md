@@ -4,7 +4,7 @@
 
 <h2 align="center">New Programmer From Indonesia Fresh Graduate HS</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50"/>
 </p>
 
@@ -12,7 +12,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50"/>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50"/>
 </p>
 
