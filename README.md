@@ -4,16 +4,11 @@
 
 <h2 align="center">New Programmer From Indonesia Fresh Graduate HS</h2>
 
-<p align="left">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50"/>
-</p>
-
-<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50"/>
-</p>
-
-<p align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50"/>
+</div>
 </p>
 
 <table>
