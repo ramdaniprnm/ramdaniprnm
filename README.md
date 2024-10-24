@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Times+New+Roman&weight=800&size=48&duration=4000&pause=1000&color=F39C12&background=00000000&center=true&vCenter=true&width=1500&height=100&lines=Assalamu'alaikum;Welcome+To+My+GitHub+Profiles!+" alt="Typing SVG" width="1500" height="100" />
+</div>
 
 ## 🌐 Socials:
 - 👋 Hi, I’m Ramdani Purnama
@@ -7,6 +10,8 @@
 - ⚡ Fun fact: I am not Kanye West nor Tame Impala
 - 🎵 Song: Yes, I like it
 - 🌑 Religion: Islam
+
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wronghuman18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ramdani Purnama) 
 
 # 💻 Tech Stack:
