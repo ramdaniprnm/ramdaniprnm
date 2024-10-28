@@ -11,7 +11,7 @@
 - 🎵 Song: Yes, I like it
 - 🌑 Religion: Islam
 
- # Feel Free To Connect With Me At:    
+ ## 🫂 Feel free to connect with Me at:    
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wronghuman18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramdani-purnama-9312b8312/)
 
 # 💻 Tech Stack:
