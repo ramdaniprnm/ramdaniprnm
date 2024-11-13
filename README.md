@@ -7,8 +7,8 @@
 - 👀 I’m interested in becoming a successful person
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: Refrigerator 
-- ⚡ Fun fact: I am not Kanye West nor Tame Impala
-- 🎵 Song: Yes, I like it
+- ⚡ Fun fact: I am can center a div
+- 🎵 I Like hearing recitation
 - 🌑 Religion: Islam
 
  ## 🫂 Feel free to connect with Me at:    
