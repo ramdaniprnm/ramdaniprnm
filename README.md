@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 - 👋 Hi, I’m Ramdani Purnama
-- 👀 I’m interested in becoming a successful person
+- 👀 I’m interested at anything I like
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: Refrigerator 
 - ⚡ Fun fact: I am can center a div
