@@ -18,8 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramdaniprnm&theme=aura&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=ramdaniprnm&theme=aura&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> -->
+<!--   <br/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramdaniprnm&theme=aura&hide_border=false" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdaniprnm&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
