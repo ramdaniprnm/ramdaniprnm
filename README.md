@@ -10,6 +10,7 @@ Here's the updated version with improved wording and the removal of "Beliefs" an
 - 🌱 Currently Learning: JavaScript and Web Development
 - 👀 Interests: Technology, Problem-Solving, and Creative Coding
 - 🎵 Hobbies: Enjoying meaningful recitations and exploring new tech trends
+  
 Feel free to connect or explore my projects here on GitHub!
 
  ## 🫂 Feel free to connect with Me at:    
